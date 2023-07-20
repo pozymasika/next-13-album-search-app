@@ -25,3 +25,47 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+@layer components {
+  .btn {
+    @apply bg-blue-600 text-white px-4 py-2 rounded-r;
+  }
+  .search-form {
+    @apply flex h-56 justify-center items-center;
+  }
+  .modal {
+    @apply fixed top-0 left-0 right-0 z-50 w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 max-h-full bg-gray-400/60;
+  }
+  .modal-body {
+    @apply relative w-full max-w-3xl mx-auto h-[calc(100%-1rem)] max-h-full p-4 overflow-x-hidden overflow-y-auto md:inset-0;
+  }
+  .btn-close {
+    @apply text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ml-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white;
+  }
+}
+
+@layer base {
+  input {
+    @apply border border-gray-300 rounded-l px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-600 focus:border-transparent;
+  }
+
+  table {
+    @apply w-full text-sm text-left text-gray-500 dark:text-gray-400 mt-5;
+  }
+
+  thead {
+    @apply text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400;
+  }
+
+  th {
+    @apply px-6 py-4 font-medium text-gray-900 whitespace-nowrap dark:text-white;
+  }
+
+  tr {
+    @apply bg-white border-b dark:bg-gray-800 dark:border-gray-700;
+  }
+}
+
+body {
+  min-height: 100vh;
+}

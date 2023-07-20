@@ -1,0 +1,357 @@
+[
+  {
+    "name": "Grupo Frontera",
+    "id": "6XkjpgcEsYab502Vr1bBeW",
+    "href": "https://api.spotify.com/v1/artists/6XkjpgcEsYab502Vr1bBeW",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb44cfa76ca4e2583037617859",
+      "width": 640
+    }
+  },
+  {
+    "name": "Fuerza Regida",
+    "id": "0ys2OFYzWYB5hRDLCsBqxt",
+    "href": "https://api.spotify.com/v1/artists/0ys2OFYzWYB5hRDLCsBqxt",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1a50c3693688ed6b81a7b16d",
+      "width": 640
+    }
+  },
+  {
+    "name": "Zach Bryan",
+    "id": "40ZNYROS4zLfyyBSs2PGe2",
+    "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4fd54df35bfcfa0fc9fc2da7",
+      "width": 640
+    }
+  },
+  {
+    "name": "Yng Lvcas",
+    "id": "1NNRWkhwmcXRimFYSBpB1y",
+    "href": "https://api.spotify.com/v1/artists/1NNRWkhwmcXRimFYSBpB1y",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb70f8023deca1909dd21d9bf1",
+      "width": 640
+    }
+  },
+  {
+    "name": "Bizarrap",
+    "id": "716NhGYqD1jl2wI1Qkgq36",
+    "href": "https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb12085fdb28f314e01ef73a19",
+      "width": 640
+    }
+  },
+  {
+    "name": "J. Cole",
+    "id": "6l3HvQ5sa6mXTsMTB19rO5",
+    "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebadd503b411a712e277895c8a",
+      "width": 640
+    }
+  },
+  {
+    "name": "Miley Cyrus",
+    "id": "5YGY8feqx7naU7z4HrwZM6",
+    "href": "https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7e8110a92ec2252f0821f8b8",
+      "width": 640
+    }
+  },
+  {
+    "name": "David Kushner",
+    "id": "33NVpKoXjItPwUJTMZIOiY",
+    "href": "https://api.spotify.com/v1/artists/33NVpKoXjItPwUJTMZIOiY",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf6a68d90ef0bb84219e3499a",
+      "width": 640
+    }
+  },
+  {
+    "name": "Tyler, The Creator",
+    "id": "4V8LLVI7PbaPR0K2TGSxFF",
+    "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8278b782cbb5a3963db88ada",
+      "width": 640
+    }
+  },
+  {
+    "name": "Lyrical Lemonade",
+    "id": "3VrGfWE8YdYMK4ySpnE0ly",
+    "href": "https://api.spotify.com/v1/artists/3VrGfWE8YdYMK4ySpnE0ly",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdba22bb11669c7148ad10cfd",
+      "width": 640
+    }
+  },
+  {
+    "name": "Gunna",
+    "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+    "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6501f8a7d50c56e86e46f920",
+      "width": 640
+    }
+  },
+  {
+    "name": "Taylor Swift",
+    "id": "06HL4z0CvFAxyc27GXpf02",
+    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5a00969a4698c3132a15fbb0",
+      "width": 640
+    }
+  },
+  {
+    "name": "Kaliii",
+    "id": "6BgdroP3f57LfPZvWcNWdq",
+    "href": "https://api.spotify.com/v1/artists/6BgdroP3f57LfPZvWcNWdq"
+  },
+  {
+    "name": "Peso Pluma",
+    "id": "12GqGscKJx3aE4t07u7eVZ",
+    "href": "https://api.spotify.com/v1/artists/12GqGscKJx3aE4t07u7eVZ",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb78198798bf52ec66aaf186a8",
+      "width": 640
+    }
+  },
+  {
+    "name": "Metro Boomin",
+    "id": "0iEtIxbK0KxaSlF7G42ZOp",
+    "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebdf9a1555f53a20087b8c5a5c",
+      "width": 640
+    }
+  },
+  {
+    "name": "Luke Combs",
+    "id": "718COspgdWOnwOFpJHRZHS",
+    "href": "https://api.spotify.com/v1/artists/718COspgdWOnwOFpJHRZHS",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb5db6179b28f7e3654898b279",
+      "width": 640
+    }
+  },
+  {
+    "name": "Eslabon Armado",
+    "id": "0XeEobZplHxzM9QzFQWLiR",
+    "href": "https://api.spotify.com/v1/artists/0XeEobZplHxzM9QzFQWLiR",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb114fc6846b9f0e0746baa6a7",
+      "width": 640
+    }
+  },
+  {
+    "name": "SZA",
+    "id": "7tYKF4w9nC0nq9CsPZTHyP",
+    "href": "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03",
+      "width": 640
+    }
+  },
+  {
+    "name": "FIFTY FIFTY",
+    "id": "4GJ6xDCF5jaUqD6avOuQT6",
+    "href": "https://api.spotify.com/v1/artists/4GJ6xDCF5jaUqD6avOuQT6",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb1193a00caa638c135ffc60ec",
+      "width": 640
+    }
+  },
+  {
+    "name": "Nicki Minaj",
+    "id": "0hCNtLu0JehylgoiP8L4Gh",
+    "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6a8e5e8752d1dc2dafa63f20",
+      "width": 640
+    }
+  },
+  {
+    "name": "Morgan Wallen",
+    "id": "4oUHIQIBe0LHzYfvXNW4QM",
+    "href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb0266f72f16d98a972ed1ee4d",
+      "width": 640
+    }
+  },
+  {
+    "name": "Harry Styles",
+    "id": "6KImCVD70vtIoJWnq6nGn3",
+    "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb",
+      "width": 640
+    }
+  },
+  {
+    "name": "Young Thug",
+    "id": "50co4Is1HCEo8bhOyUWKpn",
+    "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb547d2b41c9f2c97318aad0ed",
+      "width": 640
+    }
+  },
+  {
+    "name": "PinkPantheress",
+    "id": "78rUTD7y6Cy67W1RVzYs7t",
+    "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebfd7a593cda27e19c8768edea",
+      "width": 640
+    }
+  },
+  {
+    "name": "Rema",
+    "id": "46pWGuE3dSwY3bMMXGBvVS",
+    "href": "https://api.spotify.com/v1/artists/46pWGuE3dSwY3bMMXGBvVS",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb3048665f9b62f24979bb22b0",
+      "width": 640
+    }
+  },
+  {
+    "name": "Kali Uchis",
+    "id": "1U1el3k54VvEUzo3ybLPlM",
+    "href": "https://api.spotify.com/v1/artists/1U1el3k54VvEUzo3ybLPlM",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4ddb58b186bace4ed7e9f26e",
+      "width": 640
+    }
+  },
+  {
+    "name": "JVKE",
+    "id": "164Uj4eKjl6zTBKfJLFKKK",
+    "href": "https://api.spotify.com/v1/artists/164Uj4eKjl6zTBKfJLFKKK",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8f15a8916c7388aa8c5a896b",
+      "width": 640
+    }
+  },
+  {
+    "name": "Kendrick Lamar",
+    "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+    "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022",
+      "width": 640
+    }
+  },
+  {
+    "name": "Post Malone",
+    "id": "246dkjvS1zLTtiykXe5h60",
+    "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1",
+      "width": 640
+    }
+  },
+  {
+    "name": "Lil Durk",
+    "id": "3hcs9uc56yIGFCSy9leWe7",
+    "href": "https://api.spotify.com/v1/artists/3hcs9uc56yIGFCSy9leWe7",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eba0461c1f2218374aa672ce4e",
+      "width": 640
+    }
+  },
+  {
+    "name": "Doja Cat",
+    "id": "5cj0lLjcoR7YOSnhnX0Po5",
+    "href": "https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99",
+      "width": 640
+    }
+  },
+  {
+    "name": "Drake",
+    "id": "3TVXtAsR1Inumwj472S9r4",
+    "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
+      "width": 640
+    }
+  },
+  {
+    "name": "Junior H",
+    "id": "7Gi6gjaWy3DxyilpF1a8Is",
+    "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb9c21c3bf0439e76e7d001b5d",
+      "width": 640
+    }
+  },
+  {
+    "name": "Bad Bunny",
+    "id": "4q3ewBCX7sLwd24euuV69X",
+    "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5ebe63fa66d8a1d822bfe9e7edf",
+      "width": 640
+    }
+  },
+  {
+    "name": "The Weeknd",
+    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+    "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb01b9b4ec2a05d0805428acfa",
+      "width": 640
+    }
+  },
+  {
+    "name": "Noah Kahan",
+    "id": "2RQXRUsr4IW1f3mKyKsy4B",
+    "href": "https://api.spotify.com/v1/artists/2RQXRUsr4IW1f3mKyKsy4B",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab6761610000e5eb7bfba04955b666b8b8219541",
+      "width": 640
+    }
+  }
+]
