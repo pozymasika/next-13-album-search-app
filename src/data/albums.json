@@ -2,6 +2,7 @@
   {
     "artists": ["6XkjpgcEsYab502Vr1bBeW", "4q3ewBCX7sLwd24euuV69X"],
     "name": "un x100to",
+    "genre": "trap latino",
     "id": "7aGzSSUD8S6IhPCsZSiuMT",
     "href": "https://api.spotify.com/v1/albums/7aGzSSUD8S6IhPCsZSiuMT",
     "image": {
@@ -455,6 +456,876 @@
     "image": {
       "height": 640,
       "url": "https://i.scdn.co/image/ab67616d0000b27365a472d8326d4571bf725422",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["2AfU5LYBVCiCtuCCfM7uVX", "1Q2mS59tFYLm2KGFoCgWN4"],
+    "name": "Barcelona (feat. Samm Henshaw)",
+    "id": "0ey2p9BD1wTRBICOSewhnJ",
+    "href": "https://api.spotify.com/v1/albums/0ey2p9BD1wTRBICOSewhnJ",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27366f36e15a3de91781dea6774",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["1JspXUvEv3D9ddMeLNqYWj"],
+    "name": "Coffee Shop",
+    "id": "1jWqXdJ2EeP9CZvIfa3F9U",
+    "href": "https://api.spotify.com/v1/albums/1jWqXdJ2EeP9CZvIfa3F9U",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273911ca10795d3dec9ef516604",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["7CajNmpbOovFoOoasH2HaY", "4A0TivfinfALCAMJqqjZIk"],
+    "name": "Funk Wav Bounces Vol.1",
+    "id": "2HaqChIDc5go3qxVunBDK0",
+    "href": "https://api.spotify.com/v1/albums/2HaqChIDc5go3qxVunBDK0",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734d3fa5ce7ba599f4fd7803ef",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["6USv9qhCn6zfxlBQIYJ9qs"],
+    "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
+    "id": "57bOm4y0cT0j9Kwl7Osasj",
+    "href": "https://api.spotify.com/v1/albums/57bOm4y0cT0j9Kwl7Osasj",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f4e6ed5d6b134635c45f8602",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["4p5WgeiPSPpqPDs7T6OkWf", "0jqbEIAvdjUOi5Za48pzQG"],
+    "name": "Relax My Eyes",
+    "id": "2vIDF8BeMN3BcF0yOSMgmN",
+    "href": "https://api.spotify.com/v1/albums/2vIDF8BeMN3BcF0yOSMgmN",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273eedb2366a9c2fbb8503c703e",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["6ueGR6SWhUJfvEhqkvMsVs"],
+    "name": "The Age of Pleasure",
+    "id": "3440hCSfwYXxJcbQ0j3jAJ",
+    "href": "https://api.spotify.com/v1/albums/3440hCSfwYXxJcbQ0j3jAJ",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27331ac0ae08eb470692364f8b3",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["3R80OE4RViOWbnuvqh0j8a"],
+    "name": "girls like me don't cry (deluxe)",
+    "id": "3tzL6SeVT3j5ux571sx1nu",
+    "href": "https://api.spotify.com/v1/albums/3tzL6SeVT3j5ux571sx1nu",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b3f51a88fea1fb7f5acee88",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["2mLA48B366zkELXYx7hcDN"],
+    "name": "(It Goes Like) Nanana [Edit]",
+    "id": "2LVDNOUUy2g8517ZEtQIcK",
+    "href": "https://api.spotify.com/v1/albums/2LVDNOUUy2g8517ZEtQIcK",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739a8459318ff1a68ecfd74522",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["1MXZ0hsGic96dWRDKwAwdr"],
+    "name": "SUMMER VIBES",
+    "id": "437rnm8NI94QYbp38sMYR2",
+    "href": "https://api.spotify.com/v1/albums/437rnm8NI94QYbp38sMYR2",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273855be53d8476ab2e85470aab",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["2a0uxJgbvvIRI4GX8pYfcr", "3TVXtAsR1Inumwj472S9r4"],
+    "name": "Who Told You (feat. Drake)",
+    "id": "5AQdhXDCLTUZNHYH1hMIdF",
+    "href": "https://api.spotify.com/v1/albums/5AQdhXDCLTUZNHYH1hMIdF",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f6aca6a7d4132d9b2d15e0f0",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["6AMd49uBDJfhf30Ak2QR5s"],
+    "name": "Players",
+    "id": "4cAAsw7mPkGt15GXQzWlrM",
+    "href": "https://api.spotify.com/v1/albums/4cAAsw7mPkGt15GXQzWlrM",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731cf7cf4446b496525e423465",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["3WGpXCj9YhhfX11TToZcXP"],
+    "name": "Rush",
+    "id": "35N2XoH2rveqI5FAB30HSf",
+    "href": "https://api.spotify.com/v1/albums/35N2XoH2rveqI5FAB30HSf",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a4ffb2049ffce92bdae5f559",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["586uxXMyD5ObPuzjtrzO1Q"],
+    "name": "Jacaré",
+    "id": "6tVrvnbU1sLGGegMIEYexO",
+    "href": "https://api.spotify.com/v1/albums/6tVrvnbU1sLGGegMIEYexO",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2736bc4dd52119a35e49ff66bcb",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["1LZEQNv7sE11VDY3SdxQeN", "0GG2cWaonE4JPrjcCCQ1EG"],
+    "name": "More Than A Woman (SG's Paradise Edit)",
+    "id": "2iTmTEm55PIjLdYjDCKh96",
+    "href": "https://api.spotify.com/v1/albums/2iTmTEm55PIjLdYjDCKh96",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273bd8e2af160f4664d666c4132",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["4V4Z3qMCwYofWHtip6ePF6"],
+    "name": "What You Won't Do for Love",
+    "id": "4pBJRxtR5TQe8hfsUgZ1r2",
+    "href": "https://api.spotify.com/v1/albums/4pBJRxtR5TQe8hfsUgZ1r2",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730f98789111606f77a27d6f67",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["63XBtGSEZINSyXylZxEUbv", "5Vuvs6Py2JRU7WiFDVsI7J"],
+    "name": "Smoke (feat. Lucky Daye)",
+    "id": "24myqNnAEPwBjGfhEm6WJA",
+    "href": "https://api.spotify.com/v1/albums/24myqNnAEPwBjGfhEm6WJA",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b3e73ef4cf37e415f129e2d9",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["3K2Srho6NCF3o9MswGR76H"],
+    "name": "Will You Be My Yellow?",
+    "id": "12nH1R4NqEtaOQ5M7RA63p",
+    "href": "https://api.spotify.com/v1/albums/12nH1R4NqEtaOQ5M7RA63p",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2735bbe47313dfc5a6d6249a487",
+      "width": 640
+    }
+  },
+  {
+    "artists": [
+      "0eRbECAGCLLiTyVXPBRexU",
+      "6U3ybJ9UHNKEdsH7ktGBZ7",
+      "6HvZYsbFfjnjFrWF950C9d"
+    ],
+    "name": "Be Who You Are (Real Magic)",
+    "id": "1Pk1W5xbmAqG6wBNL4sjq5",
+    "href": "https://api.spotify.com/v1/albums/1Pk1W5xbmAqG6wBNL4sjq5",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a1214ad1ca57685349932cea",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["4LLpKhyESsyAXpc4laK94U"],
+    "name": "K.I.D.S. (Deluxe)",
+    "id": "6TFm9KGW7Lbxrl2Zsg4X9R",
+    "href": "https://api.spotify.com/v1/albums/6TFm9KGW7Lbxrl2Zsg4X9R",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273463d73e65c7b95a17898388b",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["7qmpXeNz2ojlMl2EEfkeLs"],
+    "name": "Good Times Go",
+    "id": "1Y7AsjpYThuzMClDdu4FrV",
+    "href": "https://api.spotify.com/v1/albums/1Y7AsjpYThuzMClDdu4FrV",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ecd970d1d2623b6c7fc6080c",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["2HPqVfdPh9JkBSlFG5hK6h"],
+    "name": "summer camp",
+    "id": "4mO5hcuCZYh8TyVgUjkIvi",
+    "href": "https://api.spotify.com/v1/albums/4mO5hcuCZYh8TyVgUjkIvi",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273503b0c468b7664d0bb543793",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["7FtCyCJCJaxabYO7Uyda5B"],
+    "name": "Loving You",
+    "id": "3SiKtT1GsVNunfic2eXkzx",
+    "href": "https://api.spotify.com/v1/albums/3SiKtT1GsVNunfic2eXkzx",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273674c8a896826f0061f69ecde",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["4AQrqVz6BYwy29iMxcGtx7"],
+    "name": "Ordinary Love",
+    "id": "5NHYBRIZD2rHpQzs9rss0y",
+    "href": "https://api.spotify.com/v1/albums/5NHYBRIZD2rHpQzs9rss0y",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2731301607d073caa19d92ef4f8",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["7tYKF4w9nC0nq9CsPZTHyP"],
+    "name": "Good Days",
+    "id": "781cKhbTPwLnPmo9BALQl7",
+    "href": "https://api.spotify.com/v1/albums/781cKhbTPwLnPmo9BALQl7",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733097b1375ab17ae5bf302a0a",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["4yvcSjfu4PC0CYQyLy4wSq"],
+    "name": "Dreamland",
+    "id": "5bfpRtBW7RNRdsm3tRyl3R",
+    "href": "https://api.spotify.com/v1/albums/5bfpRtBW7RNRdsm3tRyl3R",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["4tenlYn9MG8Fda3OyDtPRO", "2Tglaf8nvDzwSQnpSrjLHP"],
+    "name": "Miel",
+    "id": "62w772P9uxu5l8OmVWpj6Q",
+    "href": "https://api.spotify.com/v1/albums/62w772P9uxu5l8OmVWpj6Q",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2738b97c03ec80afc0bb3fd2601",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["3JhNCzhSMTxs9WLGJJxWOY"],
+    "name": "BEN",
+    "id": "6K5RX7xasf8WdeQjapsThS",
+    "href": "https://api.spotify.com/v1/albums/6K5RX7xasf8WdeQjapsThS",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273033b871ae27b16ddd8139806",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["0NB5HROxc8dDBXpkIi1v3d"],
+    "name": "Prescription",
+    "id": "7HmE6jyAnWoVY870oQGNpo",
+    "href": "https://api.spotify.com/v1/albums/7HmE6jyAnWoVY870oQGNpo",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273446c78162a1afca203bd5535",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["4frXpPxQQZwbCu3eTGnZEw", "5INjqkS1o8h1imAzPqGZBb"],
+    "name": "No More Lies",
+    "id": "2M0NVS1dhyis57BJp7REZt",
+    "href": "https://api.spotify.com/v1/albums/2M0NVS1dhyis57BJp7REZt",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273882c536d8dcfb086bcf9733b",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["64KEffDW9EtZ1y2vBYgq8T", "3tlXnStJ1fFhdScmQeLpuG"],
+    "name": "Fell In Love",
+    "id": "4AkiEkHlDW2ZyPsO7iJct8",
+    "href": "https://api.spotify.com/v1/albums/4AkiEkHlDW2ZyPsO7iJct8",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2739b61439fea3e5baeeeddc20a",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["5Pwc4xIPtQLFEnJriah9YJ"],
+    "name": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+    "id": "04PEOM6kIEeq9lRp1asNP2",
+    "href": "https://api.spotify.com/v1/albums/04PEOM6kIEeq9lRp1asNP2",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ec96e006b8bdfc582610ec13",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["5ivCbtrcD5N4rD337xIb2z"],
+    "name": "Nosebleeds",
+    "id": "7EQ6sixCqVYPCPqARdU1Ct",
+    "href": "https://api.spotify.com/v1/albums/7EQ6sixCqVYPCPqARdU1Ct",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273518548f3d412ddcfd6c16eb8",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["5XKFrudbV4IiuE5WuTPRmT", "7o2ZQYM7nTsaVdkXY38UAA"],
+    "name": "Until I Found You (Em Beihold Version)",
+    "id": "7ARtQpvnPN2ucbmVHngLOs",
+    "href": "https://api.spotify.com/v1/albums/7ARtQpvnPN2ucbmVHngLOs",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732bf0876d42b90a8852ad6244",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["4RVnAU35WRWra6OZ3CbbMA"],
+    "name": "Padam Padam",
+    "id": "7vH3G0c3n1WsgTJHBmZxdV",
+    "href": "https://api.spotify.com/v1/albums/7vH3G0c3n1WsgTJHBmZxdV",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273ec00c380719aa51043510834",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["4FcZfItjVIsfO9TynErl7X", "0ErzCpIMyLcjPiwT4elrtZ"],
+    "name": "Triple A (feat. NLE Choppa)",
+    "id": "4pmJH9gH9yZxuPOMU0swI9",
+    "href": "https://api.spotify.com/v1/albums/4pmJH9gH9yZxuPOMU0swI9",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273cb43f7b12a4e6db1dde22783",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["3sJQwG0SsGRyv5C5kh4o9a"],
+    "name": "SOLO",
+    "id": "6tUdt4hvQmNtO0gh5fG8ce",
+    "href": "https://api.spotify.com/v1/albums/6tUdt4hvQmNtO0gh5fG8ce",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d1a54ffd75bf25d8b1db38e6",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["1Z8ODXyhEBi3WynYw0Rya6"],
+    "name": "Eye Know",
+    "id": "22t2IibRXLtbyPriEJgm41",
+    "href": "https://api.spotify.com/v1/albums/22t2IibRXLtbyPriEJgm41",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e5c1c42d55e2d2adfd376750",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["7gOdHgIoIKoe4i9Tta6qdD"],
+    "name": "Waffle House",
+    "id": "7lWGbTl1g2VxxWg9fDvF99",
+    "href": "https://api.spotify.com/v1/albums/7lWGbTl1g2VxxWg9fDvF99",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fd375ba0daa6b88d6fd671f4",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["21UPYSRWFKwtqvSAnFnSvS"],
+    "name": "Co-Star",
+    "id": "0FLajXxca41VLTunahQo9s",
+    "href": "https://api.spotify.com/v1/albums/0FLajXxca41VLTunahQo9s",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273424af981b0a3d95f5225cae0",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["40LHVA5BTQp9RxHOQ9JPYj"],
+    "name": "Lauren Daigle",
+    "id": "0pegySdYHnog0hNQcClfTf",
+    "href": "https://api.spotify.com/v1/albums/0pegySdYHnog0hNQcClfTf",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27320de81e04db7fd7396011218",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["5CCwRZC6euC8Odo6y9X8jr", "4Y7tXHSEejGu1vQ9bwDdXW"],
+    "name": "Praising You (feat. Fatboy Slim)",
+    "id": "2FJeCuU3JcO6EQWsjAGIdu",
+    "href": "https://api.spotify.com/v1/albums/2FJeCuU3JcO6EQWsjAGIdu",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273818b9b0bd041f6bcde9d70ac",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["1U1el3k54VvEUzo3ybLPlM"],
+    "name": "Por Vida",
+    "id": "6f5gAJpM85TE6aQ81h46T5",
+    "href": "https://api.spotify.com/v1/albums/6f5gAJpM85TE6aQ81h46T5",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dbc47f8bae404ce15ffd055e",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["59oA5WbbQvomJz2BuRG071"],
+    "name": "Dominoes",
+    "id": "2dlpZyyRvPou3UyC7nACNp",
+    "href": "https://api.spotify.com/v1/albums/2dlpZyyRvPou3UyC7nACNp",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e62329f29d5b3e658153bb82",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["0GG2cWaonE4JPrjcCCQ1EG", "5Vuvs6Py2JRU7WiFDVsI7J"],
+    "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
+    "id": "5m1gDbNlYsrXH42XLeDE05",
+    "href": "https://api.spotify.com/v1/albums/5m1gDbNlYsrXH42XLeDE05",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e86149f0b02485efc4e90c74",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["41X1TR6hrK8Q2ZCpp2EqCz", "2IDLDx25HU1nQMKde4n61a"],
+    "name": "edamame (feat. Rich Brian)",
+    "id": "1YrACh9xDRGpjrkdWz4MfP",
+    "href": "https://api.spotify.com/v1/albums/1YrACh9xDRGpjrkdWz4MfP",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273545a202ab06885cf2c6621ca",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["0Y3agQaa6g2r0YmHPOO9rh"],
+    "name": "Timeless",
+    "id": "6lI21W76LD0S3vC55GrfSS",
+    "href": "https://api.spotify.com/v1/albums/6lI21W76LD0S3vC55GrfSS",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273adfc1ac5836f96adac580271",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["7pbDxGE6nQSZVfiFdq9lOL"],
+    "name": "AMAZING",
+    "id": "0iv1vqUOxADWV9vhTlF4Qe",
+    "href": "https://api.spotify.com/v1/albums/0iv1vqUOxADWV9vhTlF4Qe",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2733d46e0edf4ff0894a62563ef",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["6USv9qhCn6zfxlBQIYJ9qs"],
+    "name": "Don't Forget About Me, Demos",
+    "id": "1DNx0H5ZX1ax3yyRwtgT4S",
+    "href": "https://api.spotify.com/v1/albums/1DNx0H5ZX1ax3yyRwtgT4S",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734a42166d927b3acce345c5c0",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["360IAlyVv4PCEVjgyMZrxK"],
+    "name": "All I Want Is You",
+    "id": "493HYe7N5pleudEZRyhE7R",
+    "href": "https://api.spotify.com/v1/albums/493HYe7N5pleudEZRyhE7R",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["3ZpEKRjHaHANcpk10u6Ntq"],
+    "name": "Rush",
+    "id": "6CvEsGBD3JdbDKpmJaXn2E",
+    "href": "https://api.spotify.com/v1/albums/6CvEsGBD3JdbDKpmJaXn2E",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a4ec2f14b1c0d7851efb5090",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["1scVfBymTr3CeZ4imMj1QJ"],
+    "name": "DIGGIN U",
+    "id": "5YjrtoRuM55a22wfsY7UVn",
+    "href": "https://api.spotify.com/v1/albums/5YjrtoRuM55a22wfsY7UVn",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f5215d01f121d44f134be09c",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["5Mq7iqCWBzofK39FBqblNc"],
+    "name": "That! Feels Good!",
+    "id": "17g3sAeWfpHSJlqMHuRAr6",
+    "href": "https://api.spotify.com/v1/albums/17g3sAeWfpHSJlqMHuRAr6",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f3a0088f5fc645693815c8ef",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["23xqmJEN3oVxwzqtNIyR5m", "5wD0owYApRtYmjPWavWKvb"],
+    "name": "Tom's Diner",
+    "id": "7ClPGbXY81egfNn8H1hDAg",
+    "href": "https://api.spotify.com/v1/albums/7ClPGbXY81egfNn8H1hDAg",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732186eb1b0b5436f858c0508c",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["7CslUrDCYnm3vMtKZJZGNv"],
+    "name": "Mrs. Hollywood",
+    "id": "4R94EEvhdvAE3PWhPcLo59",
+    "href": "https://api.spotify.com/v1/albums/4R94EEvhdvAE3PWhPcLo59",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2732b989601f1f78003efae5682",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["0hirZ8kPPdM9pzXpoagB4w"],
+    "name": "The Spice Of Life",
+    "id": "6TRHI63AVabVkLPou2biv8",
+    "href": "https://api.spotify.com/v1/albums/6TRHI63AVabVkLPou2biv8",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273c925139455d0480681315f02",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["3Mcii5XWf6E0lrY3Uky4cA"],
+    "name": "The Predator",
+    "id": "71HM1CMYWeZzws8pyiEn46",
+    "href": "https://api.spotify.com/v1/albums/71HM1CMYWeZzws8pyiEn46",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273994c319841a923465d62e271",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["73sIBHcqh3Z3NyqHKZ7FOL"],
+    "name": "\"Awaken, My Love!\"",
+    "id": "7caGY3YPOchIO8xLvTKWN4",
+    "href": "https://api.spotify.com/v1/albums/7caGY3YPOchIO8xLvTKWN4",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737582716b3666a5235d5af4ea",
+      "width": 640
+    }
+  },
+  {
+    "artists": [
+      "5LHRHt1k9lMyONurDHEdrp",
+      "5ZS223C6JyBfXasXxrRqOk",
+      "0eDvMgVFoNV3TpwtrVCoTj"
+    ],
+    "name": "Sunshine",
+    "id": "3dkw0XggNMPs4koj5PtL6r",
+    "href": "https://api.spotify.com/v1/albums/3dkw0XggNMPs4koj5PtL6r",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273436ba2c5e938a7434b9df5b2",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["3jTU1IOqkO7Mz4zdbXPose"],
+    "name": "Teenage Dream",
+    "id": "1UH6aVsmnWRjsB5Tq0qUhF",
+    "href": "https://api.spotify.com/v1/albums/1UH6aVsmnWRjsB5Tq0qUhF",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273dfa368b8f51bb183328293bf",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["0LyfQWJT6nXafLPZqxe9Of"],
+    "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+    "id": "35s58BRTGAEWztPo9WqCIs",
+    "href": "https://api.spotify.com/v1/albums/35s58BRTGAEWztPo9WqCIs",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["5pDjmC5mRl7vDJhsjVwNfk"],
+    "name": "Blood Orange",
+    "id": "3JX33V2KTmNWzqBOPRpjSJ",
+    "href": "https://api.spotify.com/v1/albums/3JX33V2KTmNWzqBOPRpjSJ",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273864809892412491e0f3fdfaf",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["7naAJDAh7AZnf18YYfQruM"],
+    "name": "Meet Me At Our Spot",
+    "id": "7yYIY5ZSptEn9CBm9QhW5O",
+    "href": "https://api.spotify.com/v1/albums/7yYIY5ZSptEn9CBm9QhW5O",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734bfd9921cb5f3d6a54dca49c",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["311uEW9rt5g2NmzjGEKS2E"],
+    "name": "If We Ever Broke Up",
+    "id": "4eadTzshRApGna6Ppz5XwO",
+    "href": "https://api.spotify.com/v1/albums/4eadTzshRApGna6Ppz5XwO",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273918207ec2316cec13a0e036f",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["6M2wZ9GZgrQXHCFfjv46we"],
+    "name": "Dance The Night (From Barbie The Album)",
+    "id": "5cH7FqB7JD5q1tJXJ7FHYu",
+    "href": "https://api.spotify.com/v1/albums/5cH7FqB7JD5q1tJXJ7FHYu",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737dd3ba455ee3390cb55b0192",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["7qmpXeNz2ojlMl2EEfkeLs"],
+    "name": "Eyes On You",
+    "id": "2vwW8EzZGZaAFfZ2HYL1hE",
+    "href": "https://api.spotify.com/v1/albums/2vwW8EzZGZaAFfZ2HYL1hE",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734b1e0ce2d6146e24da30229a",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["2FwJwEswyIUAljqgjNSHgP"],
+    "name": "never worry",
+    "id": "1ZXC6ylnVeo9H0jAu5ri4r",
+    "href": "https://api.spotify.com/v1/albums/1ZXC6ylnVeo9H0jAu5ri4r",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27382cba32f141144974267a134",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["5lh1imF7kkn87IHQsoEjJB"],
+    "name": "Paris Latino - Tango Tango",
+    "id": "63YVNuTwcHSo410vywLtxQ",
+    "href": "https://api.spotify.com/v1/albums/63YVNuTwcHSo410vywLtxQ",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2737bed072c019d682b98729496",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["46pWGuE3dSwY3bMMXGBvVS", "0C8ZW7ezQVs4URX5aX7Kqx"],
+    "name": "Calm Down (with Selena Gomez)",
+    "id": "2b2GHWESCWEuHiCZ2Skedp",
+    "href": "https://api.spotify.com/v1/albums/2b2GHWESCWEuHiCZ2Skedp",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273a3a7f38ea2033aa501afd4cf",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["56oDRnqbIiwx4mymNEv7dS", "7tYKF4w9nC0nq9CsPZTHyP"],
+    "name": "Special (feat. SZA)",
+    "id": "5Qw3usvS6dDOE0ErN6tl7O",
+    "href": "https://api.spotify.com/v1/albums/5Qw3usvS6dDOE0ErN6tl7O",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b9041796cb2839e2e89e3ea6",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["0iui2Be5CP8EWxvHYsVspL"],
+    "name": "By Your Side",
+    "id": "6C9yWt9DLFJixQjOZIkaAT",
+    "href": "https://api.spotify.com/v1/albums/6C9yWt9DLFJixQjOZIkaAT",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2734ac2d979712c58dcc49290e0",
+      "width": 640
+    }
+  },
+  {
+    "artists": [
+      "3MdXrJWsbVzdn6fe5JYkSQ",
+      "4iHNK0tOyZPYnBU7nGAgpQ",
+      "0QHgL1lAIqAw0HtD7YldmP"
+    ],
+    "name": "Big Energy (feat. DJ Khaled) [Remix]",
+    "id": "7yQ3QGLWN0YvBuImU7bVc3",
+    "href": "https://api.spotify.com/v1/albums/7yQ3QGLWN0YvBuImU7bVc3",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273e0ebcb95ee613ef2336a78ab",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["4ETSs924pXMzjIeD6E9b4u"],
+    "name": "Pacifico",
+    "id": "5PrhnVNOKoJC2aLLfabxuB",
+    "href": "https://api.spotify.com/v1/albums/5PrhnVNOKoJC2aLLfabxuB",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27300d5a8ba3fc0f5850b00acdc",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["5y2Xq6xcjJb2jVM54GHK3t"],
+    "name": "LEGEND",
+    "id": "0kRBs6M0VbrourQ6fYbCiJ",
+    "href": "https://api.spotify.com/v1/albums/0kRBs6M0VbrourQ6fYbCiJ",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273d9ed57269dbc991a30657494",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["74KM79TiuVKeVCqs8QtB0B"],
+    "name": "emails i can't send",
+    "id": "5kDmlA2g9Y1YCbNo2Ufxlz",
+    "href": "https://api.spotify.com/v1/albums/5kDmlA2g9Y1YCbNo2Ufxlz",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273700f7bf79c9f063ad0362bdf",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["5p7f24Rk5HkUZsaS3BLG5F", "3jK9MiCrA42lLAdMGUZpwa"],
+    "name": "Coast",
+    "id": "0152qvGv0mmX2vU36Rocng",
+    "href": "https://api.spotify.com/v1/albums/0152qvGv0mmX2vU36Rocng",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273f5397a412658c978232a1c10",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["6s22t5Y3prQHyaHWUN1R1C"],
+    "name": "OK ORCHESTRA",
+    "id": "1y2AzG31F4CuCKQ1rpIzaI",
+    "href": "https://api.spotify.com/v1/albums/1y2AzG31F4CuCKQ1rpIzaI",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273fc9511f26808c1eee73b414d",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["7iK8PXO48WeuP03g8YR51W"],
+    "name": "LA VIDA ES UNA",
+    "id": "3puAvurwvtvi1rodndIPW8",
+    "href": "https://api.spotify.com/v1/albums/3puAvurwvtvi1rodndIPW8",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b2730656d5ce813ca3cc4b677e05",
+      "width": 640
+    }
+  },
+  {
+    "artists": ["5KKpBU5eC2tJDzf0wmlRp2"],
+    "name": "My 21st Century Blues",
+    "id": "3U8n8LzBx2o9gYXvvNq4uH",
+    "href": "https://api.spotify.com/v1/albums/3U8n8LzBx2o9gYXvvNq4uH",
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f",
       "width": 640
     }
   }

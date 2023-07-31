@@ -42,6 +42,13 @@ body {
   .btn-close {
     @apply text-gray-400 bg-transparent hover:bg-gray-200 hover:text-gray-900 rounded-lg text-sm w-8 h-8 ml-auto inline-flex justify-center items-center dark:hover:bg-gray-600 dark:hover:text-white;
   }
+  .pagination-link {
+    @apply relative block rounded-full bg-transparent px-5 py-3 text-sm text-neutral-600 transition-all duration-300 hover:bg-neutral-100  dark:text-white dark:hover:bg-neutral-700 dark:hover:text-white;
+  }
+
+  .pagination-link.active {
+    @apply bg-blue-600 text-white;
+  }
 }
 
 @layer base {
