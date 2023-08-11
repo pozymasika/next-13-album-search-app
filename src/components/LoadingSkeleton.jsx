@@ -31,6 +31,14 @@ export default function LoadingSkeleton() {
           <SkeletonItem />
           <SkeletonItem />
           <SkeletonItem />
+          <SkeletonItem />
+          <SkeletonItem />
+          <SkeletonItem />
+          <SkeletonItem />
+          <SkeletonItem />
+          <SkeletonItem />
+          <SkeletonItem />
+          <SkeletonItem />
         </div>
       </div>
     </main>

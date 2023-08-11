@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 export default function Search({ results }) {
@@ -8,8 +9,9 @@ export default function Search({ results }) {
           <div className="w-1/4 p-2" key={album.id}>
             <div className="rounded overflow-hidden shadow-lg">
               <div className="img-container aspect-square dark:bg-gray-700">
-                <img
-                  className="w-full h-full"
+                <Image
+                  width={304}
+                  height={304}
                   src={album.image.url}
                   alt={album.name}
                 />
