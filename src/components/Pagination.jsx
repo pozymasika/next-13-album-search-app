@@ -4,6 +4,7 @@ export default function Pagination({ totalPages, page = 1 }) {
   const pages = Array.from({ length: totalPages }, (_, i) => i + 1);
   const router = useRouter();
   const params = useSearchParams();
+  // @ts-ignore
   const urlSearchParams = new URLSearchParams(params);
 
   const goToPage = (page) => {
