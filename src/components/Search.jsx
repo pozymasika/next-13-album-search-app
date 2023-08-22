@@ -10,8 +10,8 @@ export default function Search({ results }) {
             <div className="rounded overflow-hidden shadow-lg">
               <div className="img-container aspect-square dark:bg-gray-700">
                 <Image
-                  width={304}
-                  height={304}
+                  width={363}
+                  height={363}
                   src={album.image.url}
                   alt={album.name}
                 />

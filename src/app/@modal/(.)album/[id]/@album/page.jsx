@@ -13,8 +13,8 @@ export default async function AlbumPage({ params }) {
     <div className="w-1/4 p-2" key={album.id}>
       <div className="rounded overflow-hidden shadow-lg">
         <Image
-          width={304}
-          height={304}
+          width={363}
+          height={363}
           src={album.image.url}
           alt={album.name}
         />
