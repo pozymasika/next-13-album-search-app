@@ -1,15 +1,15 @@
 import Image from "next/image";
 import Link from "next/link";
-
 export default function Search({ results }) {
   return (
     <section>
       <div className="container flex flex-wrap mx-auto">
         {results.map((album) => (
-          <div className="w-1/4 p-2" key={album.id}>
+          <div className="w-1/2 p-2" key={album.id}>
             <div className="rounded overflow-hidden shadow-lg">
               <div className="img-container aspect-square dark:bg-gray-700">
                 <Image
+                  className="w-full h-full object-cover"
                   width={363}
                   height={363}
                   src={album.image.url}

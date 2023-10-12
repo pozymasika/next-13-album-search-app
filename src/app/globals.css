@@ -8,14 +8,6 @@
   --background-end-rgb: 255, 255, 255;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
@@ -31,7 +23,7 @@ body {
     @apply bg-blue-600 text-white px-4 py-2 rounded-r;
   }
   .search-form {
-    @apply flex h-56 justify-center items-center;
+    @apply flex h-24 lg:h-56 justify-center items-center;
   }
   .modal {
     @apply fixed top-0 left-0 right-0 z-50 w-full p-4 overflow-x-hidden overflow-y-auto md:inset-0 max-h-full bg-gray-400/60;
@@ -48,6 +40,14 @@ body {
 
   .pagination-link.active {
     @apply bg-blue-600 text-white;
+  }
+
+  .badge {
+    @apply border-blue-500 bg-white hover:bg-blue-900 hover:text-white text-blue-400 font-bold py-2 px-4 mx-2 rounded;
+  }
+
+  .badge.active {
+    @apply bg-blue-900 text-white;
   }
 }
 

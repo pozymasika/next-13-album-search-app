@@ -11,10 +11,10 @@ async function searchAlbums(url) {
 }
 
 export default function Home({ searchParams }) {
-  const searchText = searchParams.q || "";
-  const page = Number(searchParams.page) || 1;
+  const params = new URLSearchParams(searchParams);
+  const page = Number(params.get("page") || 1);
   const { data, error, isLoading } = useSWR(
-    `/api/search?q=${searchText}&page=${page}`,
+    `/api/search?${params.toString()}`,
     searchAlbums
   );
 

@@ -4,9 +4,19 @@ import { NextResponse } from "next/server";
 export async function GET(request) {
   const { searchParams } = new URL(request.url);
   const query = searchParams.get("q") || "";
-  const results = albums.filter((album) =>
-    album.name.toLowerCase().includes(query.toLowerCase())
-  );
+  const genre = searchParams.get("genre") || "";
+  const artists = searchParams.get("artists")?.split(",") || [];
+
+  const results = albums.filter((album) => {
+    const matchesQuery = album.name.toLowerCase().includes(query.toLowerCase());
+    const matchesGenre = album.genre ? album.genre.includes(genre) : true;
+    const matchesArtists =
+      artists.length > 0
+        ? album.artists.some((artist) => artists.includes(artist))
+        : true;
+
+    return matchesQuery && matchesGenre && matchesArtists;
+  });
 
   // pagination
   const perPage = 12;
